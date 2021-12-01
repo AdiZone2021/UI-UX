@@ -1,0 +1,26 @@
+.header {
+    display: flex;
+    justify-content: space-around;
+    height: 200px;
+    width: 100%;
+    align-items: center;
+ }
+ 
+ .foto {
+    width: 180px;
+    height: 90px;
+ }
+ 
+ @media(max-width: 425px){
+    .Header{
+       margin: 0 auto;
+       padding: 0 auto;
+    }
+    .header{
+       height: 100px;
+    }
+    .foto{
+       width: 80px;
+       height: 35px;
+    }
+ }
