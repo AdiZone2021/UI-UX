@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/AdiZone2021/UI-UX.git/static/css/main.f667ffcf.chunk.css",
-    "main.js": "/AdiZone2021/UI-UX.git/static/js/main.f2024285.chunk.js",
-    "main.js.map": "/AdiZone2021/UI-UX.git/static/js/main.f2024285.chunk.js.map",
-    "runtime-main.js": "/AdiZone2021/UI-UX.git/static/js/runtime-main.2b0e4f37.js",
-    "runtime-main.js.map": "/AdiZone2021/UI-UX.git/static/js/runtime-main.2b0e4f37.js.map",
-    "static/js/2.188359aa.chunk.js": "/AdiZone2021/UI-UX.git/static/js/2.188359aa.chunk.js",
-    "static/js/2.188359aa.chunk.js.map": "/AdiZone2021/UI-UX.git/static/js/2.188359aa.chunk.js.map",
-    "index.html": "/AdiZone2021/UI-UX.git/index.html",
-    "static/css/main.f667ffcf.chunk.css.map": "/AdiZone2021/UI-UX.git/static/css/main.f667ffcf.chunk.css.map",
-    "static/js/2.188359aa.chunk.js.LICENSE.txt": "/AdiZone2021/UI-UX.git/static/js/2.188359aa.chunk.js.LICENSE.txt",
-    "static/media/one.9910070a.png": "/AdiZone2021/UI-UX.git/static/media/one.9910070a.png",
-    "static/media/two.3e23e33a.png": "/AdiZone2021/UI-UX.git/static/media/two.3e23e33a.png"
+    "main.css": "/UI-UX/static/css/main.f667ffcf.chunk.css",
+    "main.js": "/UI-UX/static/js/main.f2024285.chunk.js",
+    "main.js.map": "/UI-UX/static/js/main.f2024285.chunk.js.map",
+    "runtime-main.js": "/UI-UX/static/js/runtime-main.e2fb38aa.js",
+    "runtime-main.js.map": "/UI-UX/static/js/runtime-main.e2fb38aa.js.map",
+    "static/js/2.188359aa.chunk.js": "/UI-UX/static/js/2.188359aa.chunk.js",
+    "static/js/2.188359aa.chunk.js.map": "/UI-UX/static/js/2.188359aa.chunk.js.map",
+    "index.html": "/UI-UX/index.html",
+    "static/css/main.f667ffcf.chunk.css.map": "/UI-UX/static/css/main.f667ffcf.chunk.css.map",
+    "static/js/2.188359aa.chunk.js.LICENSE.txt": "/UI-UX/static/js/2.188359aa.chunk.js.LICENSE.txt",
+    "static/media/one.9910070a.png": "/UI-UX/static/media/one.9910070a.png",
+    "static/media/two.3e23e33a.png": "/UI-UX/static/media/two.3e23e33a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.2b0e4f37.js",
+    "static/js/runtime-main.e2fb38aa.js",
     "static/js/2.188359aa.chunk.js",
     "static/css/main.f667ffcf.chunk.css",
     "static/js/main.f2024285.chunk.js"
